@@ -1,0 +1,106 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Brazil election: Lula and Bolsonaro to face run-off",
+      "description": "Neither presidential candidate got more than 50% of the overall vote, meaning they will face off on 30 October.",
+      "url": "http://www.bbc.co.uk/news/world-latin-america-63112509",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/672D/production/_126931462_mediaitem126931458.jpg",
+      "publishedAt": "2022-10-03T01:37:25.9227278Z",
+      "content": "The race to be the next president of Brazil will go to a run-off after neither of the leading candidates received more than 50% of the vote in the first round.\r\nWith nearly all votes counted, former … [+831 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Liu Jingyao and Liu Qiangdong: Chinese billionaire sexual assault case settled in US",
+      "description": "A closely-watched case where business titan Richard Liu was accused of rape was settled hours before trial.",
+      "url": "http://www.bbc.co.uk/news/world-asia-china-63070735",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D6D6/production/_126889945_gettyimages-501687560.jpg",
+      "publishedAt": "2022-10-03T00:22:22.0947606Z",
+      "content": "By Tessa WongBBC News\r\nIt was meant to be one of the biggest #MeToo trials China had ever seen, set to play out on the other side of the world in the US state of Minnesota.\r\nThe defendant was a 49-ye… [+9577 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Iran protests: Reports of students trapped amid clashes in Tehran",
+      "description": "Reports say a large number of student protesters at Sharif university have been trapped on the campus.",
+      "url": "http://www.bbc.co.uk/news/world-middle-east-63111767",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BD81/production/_126931584_e19a8cd20f06641586f08ab4bcb7692a8624d3b5.jpg",
+      "publishedAt": "2022-10-02T21:52:22.063413Z",
+      "content": "By Alys DaviesBBC News\r\nIranian police clashed with students at one of the country's most prestigious universities on Sunday, according to social and state media reports.\r\nReports say a large number … [+2039 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "London Marathon 2022: Race attracts 42,000 participants",
+      "description": "An estimated 42,000 people took part in the 26.2-mile London Marathon as large crowds watched.",
+      "url": "http://www.bbc.co.uk/news/uk-england-london-63102270",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17248/production/_126929749_capture.png",
+      "publishedAt": "2022-10-02T18:52:18.7613023Z",
+      "content": "A Spiderman, Shrek and a red postbox featuring the King's new cypher were among the fancy dress costumes donned by some of the thousands who took part in the London Marathon this year.\r\nWhether as a … [+3832 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "After chess, cheating rows rock poker and fishing",
+      "description": "Viral videos in the US have shown a surprising card game win - and fish stuffed with weights.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-63108879",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11F1F/production/_126930537_pokergetty.jpg",
+      "publishedAt": "2022-10-02T17:52:22.400964Z",
+      "content": "First it was chess - now top-level US poker and match fishing have been dogged by their own claims of cheating.\r\nA casino is investigating after one player stunned poker fans by making an audacious b… [+3646 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Mark Hamill on Zelensky and Star Wars",
+      "description": "The Star Wars legend says Ukraine's president referenced the films when he spoke to him.",
+      "url": "http://www.bbc.co.uk/news/entertainment-arts-63107183",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2618/production/_126925790_p0d42hjy.jpg",
+      "publishedAt": "2022-10-02T11:07:25.4178524Z",
+      "content": "Star Wars legend Hamill said that it was not hard to \"extrapolate an evil empire with Russia invading a sovereign nation [Ukraine]\".\r\nSpeaking to the BBC's Sunday with Laura Kuenssberg, the actor sai… [+85 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Ukraine war: Putin's annexation will fail, say Ukrainians at eastern front",
+      "description": "Ukrainian forces on the eastern front in Bakhmut say they will fight for every last inch of soil.",
+      "url": "http://www.bbc.co.uk/news/world-europe-63089367",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/128AE/production/_126905957_oleksandrcommander-2.jpg",
+      "publishedAt": "2022-10-02T11:07:20.7297905Z",
+      "content": "By Orla GuerinBBC News, Bakhmut\r\nAs Russia's Vladimir Putin announces the annexation of swathes of sovereign Ukrainian territory, issues nuclear threats and mobilises hundreds of thousands of reservi… [+6418 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Indonesia: More than 120 dead in football stampede",
+      "description": "At least 127 died after police tear-gassed rioting supporters after a match on East Java.",
+      "url": "http://www.bbc.co.uk/news/world-asia-63105945",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/18666/production/_126924999_mediaitem126924995.jpg",
+      "publishedAt": "2022-10-02T00:52:18.2614958Z",
+      "content": "By George WrightBBC News\r\nAt least 127 people have died in a stampede at an Indonesian football match after police tear-gassed rioting supporters, officials say.\r\nAround 180 were injured in a crush a… [+521 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "US frees President Maduro's relatives in Venezuela prisoner swap",
+      "description": "Two nephews of Venezuela's first lady had been serving 18-year sentences for trafficking drugs.",
+      "url": "http://www.bbc.co.uk/news/world-latin-america-63105944",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E1F2/production/_126924875_mediaitem126924871.jpg",
+      "publishedAt": "2022-10-01T23:52:16.9955037Z",
+      "content": "By George WrightBBC News\r\nVenezuela has freed seven jailed Americans in exchange for the release of two relatives of Venezuelan President Nicolas Maduro, the two countries have confirmed.\r\nThe swap i… [+1930 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Hurricane Ian: They stayed for the storm - what happens now?",
+      "description": "Florida residents are facing tough choices about whether to stay or leave in the aftermath of Hurricane Ian.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-63105430",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1326A/production/_126924487_gettyimages-1243632141.jpg",
+      "publishedAt": "2022-10-01T21:52:23.5889143Z",
+      "content": "By Bernd Debusman Jr and Alexandra OstasiewiczFort Myers, Florida\r\nFor Renee Smith and her paralysed, cancer-stricken husband Christopher, evacuation was not an option when Hurricane Ian came violent… [+8573 chars]"
+    }
+  ]
+}
